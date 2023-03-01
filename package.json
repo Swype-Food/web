@@ -1,4 +1,5 @@
 {
+  "build": "react-scripts build && cp build/index.html build/404.html",
   "name": "swype-webpage",
   "version": "0.1.0",
   "private": true,
